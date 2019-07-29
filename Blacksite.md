@@ -1,7 +1,7 @@
 Distances on Blacksite
 ======================
 
-The battle royale mode "Danger Zone" introduced in 2018, features wider open
+The battle royale mode "Danger Zone", introduced in 2018, features wider open
 spaces than classic modes do. Engagements tend to take place at greater ranges,
 the detonation of C4 doesn't end the game (although it can still be heard over
 the whole map - Valve pls fix), and it's possible to have theoretical line of
