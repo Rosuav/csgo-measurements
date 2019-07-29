@@ -18,3 +18,13 @@ comes under "fair use".
 
 TODO: Check if there's any sort of copyright terms or anything that should go
 there to support that.
+
+TODO: Get some Dust II B-site measurements
+
+TODO: Get some Sirocco measurements
+
+TODO: Find some "matched pairs" across Danger Zone maps and classic maps
+("here's 1500 HU on Sirocco and here's 1500 HU on Dust II")
+
+TODO: Go through a large number of maps and get a single measurement on each
+one of them. Maybe 1000 HU?
