@@ -28,7 +28,8 @@ Mid to T spawn
 
 Marked location: ![](images/DustII_Mid1_Mark.png "Standing in T spawn")
 
-* From mid doors: 2500 HU
+* From mid doors: 2500 HU (approximately the same as [the width of Radio on
+Blacksite](Blacksite.md#width-of-radio))
   - Unscoped ![](images/DustII_Mid1_Doors.png "2500 HU down mid")
   - Scoped ![](images/DustII_Mid1_Doors_scope1.png "2500 HU at scope 1")
   - Double-scoped ![](images/DustII_Mid1_Doors_scope2.png "2500 HU at scope 2")
