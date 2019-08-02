@@ -21,3 +21,7 @@ TODO: Check if there's any sort of copyright terms or anything that should go
 there to support that.
 
 TODO: Go through a large number of maps and get 1000 HU rulers on all of them
+
+Screenshots get dumped temporarily into a subdirectory, then renamed manually,
+and finally converted to the right format and reduced in size thusly:
+* `for f in Blacksite*; do convert -resize 640x360 $f ../"${f%%.*}".png; done`
