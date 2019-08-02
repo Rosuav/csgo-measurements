@@ -11,6 +11,7 @@ far that actually is. That's where this comes in.
 
 * [Distances on Dust II](DustII.md)
 * [Distances on Blacksite](Blacksite.md)
+* [Distances on Sirocco](Sirocco.md)
 
 The screenshots used here were taken from the latest (at time of writing) build
 of CS:GO, using the maps as published by Valve. It is believed that this usage
@@ -18,7 +19,5 @@ comes under "fair use".
 
 TODO: Check if there's any sort of copyright terms or anything that should go
 there to support that.
-
-TODO: Get some Sirocco measurements
 
 TODO: Go through a large number of maps and get 1000 HU rulers on all of them
