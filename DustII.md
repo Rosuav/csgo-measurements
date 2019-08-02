@@ -49,3 +49,22 @@ Marked location: ![](images/DustII_Mid2_Mark.png "Bottom of mid, beside truck")
 * Unscoped ![](images/DustII_Mid2_Cat.png "1750 HU cat to bottom mid")
 * Scoped ![](images/DustII_Mid2_Cat_scope1.png "1750 HU at scope 1")
 * Double-scoped ![](images/DustII_Mid2_Cat_scope2.png "1750 HU at scope 2")
+
+B site
+------
+
+Marked location: ![](images/DustII_B_Hideyhole.png "Hideyhole on B site")
+
+1200 HU from the mouth of the tunnel.
+
+* Unscoped ![](images/DustII_B_Hideyhole_Tunnel.png "1188 HU")
+* Scoped ![](images/DustII_B_Hideyhole_Tunnel_scope1.png "1188 HU at scope 1")
+* Double-scoped ![](images/DustII_B_Hideyhole_Tunnel_scope2.png "1188 HU at scope 2")
+
+Marked location: ![](images/DustII_B_Bluebox.png "Blue box, back of B site")
+
+1500 HU from peeking out of the tunnel.
+
+* Unscoped ![](images/DustII_B_Hideyhole_Tunnel.png "1526 HU")
+* Scoped ![](images/DustII_B_Hideyhole_Tunnel_scope1.png "1526 HU at scope 1")
+* Double-scoped ![](images/DustII_B_Hideyhole_Tunnel_scope2.png "1526 HU at scope 2")
