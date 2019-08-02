@@ -24,8 +24,8 @@ Marked location: ![](images/Sirocco_Dubyuh_Mark.png "Rescue zone at Dubyah")
 
 1000 HU to the rocks above. (Single-scope screenshot missing.)
 
-* Unscoped ![](images/Sirocco_Dubyah.png "1000 HU")
-* Double-scoped ![](images/Sirocco_Dubyah_scope2.png "1000 HU at scope 2")
+* Unscoped ![](images/Sirocco_Dubyuh.png "1000 HU")
+* Double-scoped ![](images/Sirocco_Dubyuh_scope2.png "1000 HU at scope 2")
 
 APC pipe
 --------
