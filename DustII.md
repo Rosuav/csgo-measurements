@@ -23,8 +23,27 @@ Distances are marked to the painted X at the site itself.
   - Scoped ![](images/DustII_A_2000_scope1.png "2000 HU at scope 1")
   - Double-scoped ![](images/DustII_A_2000_scope2.png "2000 HU at scope 2")
 
-Mid to T spawn
---------------
+Bedroom/Long Doors
+------------------
+
+Peeking out of Long Doors: ![](images/DustII_Bedroom_Mark.png "Peeking out Long Doors")
+
+1000 HU to the next corner.
+
+* Unscoped ![](images/DustII_Bedroom_1000.png "1000 HU")
+* Scoped ![](images/DustII_Bedroom_1000_scope1.png "1000 HU at scope 1")
+* Double-scoped ![](images/DustII_Bedroom_1000_scope2.png "1000 HU at scope 2")
+
+Hiding behind the skip: ![](images/DustII_Skip.png "Hiding at the blue skip")
+
+1000 HU to Pit.
+
+* Unscoped ![](images/DustII_Skip_Pit.png "1000 HU")
+* Scoped ![](images/DustII_Skip_Pit_scope1.png "1000 HU at scope 1")
+* Double-scoped ![](images/DustII_Skip_Pit_scope2.png "1000 HU at scope 2")
+
+Mid - maximum distances on Dust II
+----------------------------------
 
 Marked location: ![](images/DustII_Mid1_Mark.png "Standing in T spawn")
 
@@ -39,8 +58,15 @@ Blacksite](Blacksite.md#width-of-radio))
   - Scoped ![](images/DustII_Mid1_Truck_scope1.png "3000 HU at scope 1")
   - Double-scoped ![](images/DustII_Mid1_Truck_scope2.png "3000 HU at scope 2")
 
-Catwalk to Mid
---------------
+East-west, the greatest possible distance is 2750 HU.
+![](images/DustII_Mid6_Mark.png "Holding Short/Cat, looking all the way to Suicide")
+
+* Unscoped ![](images/DustII_Mid6_Car.png "2758 HU")
+* Scoped ![](images/DustII_Mid6_Car_scope1.png "2758 HU at scope 1")
+* Double-scoped ![](images/DustII_Mid6_Car_scope2.png "2758 HU at scope 2")
+
+Catwalk
+-------
 
 Marked location: ![](images/DustII_Mid2_Mark.png "Bottom of mid, beside truck")
 
@@ -49,6 +75,30 @@ Marked location: ![](images/DustII_Mid2_Mark.png "Bottom of mid, beside truck")
 * Unscoped ![](images/DustII_Mid2_Cat.png "1750 HU cat to bottom mid")
 * Scoped ![](images/DustII_Mid2_Cat_scope1.png "1750 HU at scope 1")
 * Double-scoped ![](images/DustII_Mid2_Cat_scope2.png "1750 HU at scope 2")
+
+Marked location: ![](images/DustII_Mid3_Mark.png "Holding Short/Cat")
+
+1200 HU from the back of lower tunnels.
+
+* Unscoped ![](images/DustII_Mid3_Tunnel.png "1217 HU")
+* Scoped ![](images/DustII_B_Hideyhole_Tunnel_scope1.png "1218 HU at scope 1")
+* Double-scoped ![](images/DustII_B_Hideyhole_Tunnel_scope2.png "1218 HU at scope 2")
+
+Same place, looking up mid: ![](images/DustII_Mid4_Mark.png "Holding Short/Cat, looking up mid")
+
+1000 HU from the back of lower tunnels.
+
+* Unscoped ![](images/DustII_Mid4_Topmid.png "1000 HU")
+* Scoped ![](images/DustII_B_Hideyhole_Tunnel_scope1.png "1000 HU at scope 1")
+* Double-scoped ![](images/DustII_B_Hideyhole_Tunnel_scope2.png "1000 HU at scope 2")
+
+Peeking into Suicide: ![](images/DustII_Mid5_Mark.png "Holding Short/Cat, looking all the way to Suicide")
+
+2000 HU all the way into Suicide.
+
+* Unscoped ![](images/DustII_Mid5_Suicide.png "2000 HU")
+* Scoped ![](images/DustII_B_Hideyhole_Tunnel_scope1.png "2000 HU at scope 1")
+* Double-scoped ![](images/DustII_B_Hideyhole_Tunnel_scope2.png "2000 HU at scope 2")
 
 B site
 ------
