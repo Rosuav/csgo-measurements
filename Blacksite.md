@@ -10,7 +10,7 @@ sight across such distance that rifle bullets actually stop being tracked.
 Width of Radio
 --------------
 
-Marked location: ![](images/Blacksite_Radio_Mark.png "Southeast corner of Radio")
+Entire courtyard: ![](images/Blacksite_Radio_Mark.png "Southeast corner of Radio")
 
 ~2600 HU to the opposite corner - approximately the same as [bottom mid to T
 spawn on Dust II](DustII.md#mid-to-t-spawn).
@@ -18,6 +18,13 @@ spawn on Dust II](DustII.md#mid-to-t-spawn).
 * Unscoped ![](images/Blacksite_Radio_Width.png "2600 HU across Radio")
 * Scoped ![](images/Blacksite_Radio_Width_scope1.png "2600 HU at scope 1")
 * Double-scoped ![](images/Blacksite_Radio_Width_scope2.png "2600 HU at scope 2")
+
+Main building: ![](images/Blacksite_Radio_Mark2.png "Southeast corner of Radio")
+
+1000 HU from door to door. TODO: Get these shots with AWP too for comparison.
+
+* Unscoped ![](images/Blacksite_Radio_DoortoDoor.png "1000 HU across Radio")
+* Scoped ![](images/Blacksite_Radio_DoortoDoor_scope1.png "1000 HU at SG-553 scope")
 
 500 HU ruler
 ------------
@@ -61,3 +68,33 @@ containers): 427 HU
   - From here ![](images/Blacksite_Dronegun_Mark.png "Shared corner")
   - Short side (width) ![](images/Blacksite_Dronegun_Width.png "Width - 154 HU")
   - Long side (length) ![](images/Blacksite_Dronegun_Length.png "Length - 178 HU")
+
+Alpha
+-----
+
+Marked location: ![](images/Blacksite_Alpha_Mark.png "Alpha at the top of the stairs")
+
+1000 HU to the shed.
+
+* Unscoped ![](images/Blacksite_Alpha_Shed.png "1000 HU")
+* Scoped ![](images/Blacksite_Alpha_Shed_scope1.png "1000 HU at scope 1")
+* Double-scoped ![](images/Blacksite_Alpha_Shed_scope2.png "1000 HU at scope 2")
+
+Tunnels
+-------
+
+Marked location: ![](images/Blacksite_Tunnels_Mark.png "Tunnels, looking north")
+
+1000 HU to the next corner.
+
+* Unscoped ![](images/Blacksite_Tunnels_North.png "1000 HU")
+* Scoped ![](images/Blacksite_Tunnels_North_scope1.png "1000 HU at scope 1")
+* Double-scoped ![](images/Blacksite_Tunnels_North_scope2.png "1000 HU at scope 2")
+
+Approaching from east instead: ![](images/Blacksite_Tunnels_Mark2.png "Tunnels, looking east")
+
+1000 HU also.
+
+* Unscoped ![](images/Blacksite_Tunnels_East.png "1000 HU")
+* Scoped ![](images/Blacksite_Tunnels_East_scope1.png "1000 HU at scope 1")
+* Double-scoped ![](images/Blacksite_Tunnels_East_scope2.png "1000 HU at scope 2")
